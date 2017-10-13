@@ -1,13 +1,12 @@
 [![Skylab-coders](https://mtzfactory.github.io/logos/png/skylab-coders.png)](http://www.skylabcoders.com/)
 ![react](https://mtzfactory.github.io/logos/png/react.png)
-![babel](https://mtzfactory.github.io/logos/png/babel.png)
 ![bootstrap](https://mtzfactory.github.io/logos/png/bootstrap.png)
 ![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
 ![css-3](https://mtzfactory.github.io/logos/png/css-3.png)
 
-### SINGLEPAGE app ~ realizado en React, react-router 4 y react-bootstrap.
+### SINGLEPAGE app ~ con React, react-router 4 y react-bootstrap.
 
-Ejemplo de uso de los componentes [```react-router```][react-router-4], ```react-bootstrap``` y ```react-router-bootstrap```, y usando ```create-react-app``` para crear nuestro _boilerplate_ de la aplicación.
+Ejemplo de uso de los componentes [```react-router```][react-router-4], [```react-bootstrap```][react-bootstrap] y [```react-router-bootstrap```][react-router-bootsrap], a partir del _boilerplate_ creado por [```create-react-app```][create-react-app].
 
 Para instalar este ejemplo:
 
@@ -35,7 +34,6 @@ $ npm start
 ```
 
 #### SkylabCoders Academy - Full Stack Web Development Bootcamp
-
 
 [create-react-app]: https://github.com/facebookincubator/create-react-app
 [react-router-4]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router
