@@ -29,7 +29,7 @@ $ npm install --save react-router
 $ npm install --save react-bootstrap
 $ npm install --save react-router-bootstrap
 
-$ npm start
+$ npm run start
 
 ```
 
