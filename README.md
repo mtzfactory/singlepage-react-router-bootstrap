@@ -22,8 +22,8 @@ Si quereis empezar de cero, podeis hacer:
 ```bash
 $ npm install -g create-react-app
 
-$ create-react-app my-app
-$ cd my-app/
+$ create-react-app my-single-app
+$ cd my-single-app/
 
 $ npm install --save react-router-dom
 $ npm install --save react-bootstrap
