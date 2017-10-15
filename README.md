@@ -6,7 +6,7 @@
 
 ### SINGLEPAGE app ~ con React, react-router 4 y react-bootstrap.
 
-Ejemplo de uso de los componentes [```react-router```][react-router-4], [```react-bootstrap```][react-bootstrap] y [```react-router-bootstrap```][react-router-bootsrap], a partir del _boilerplate_ creado por [```create-react-app```][create-react-app].
+Ejemplo de uso de los componentes [```react-router-dom```][react-router-dom], [```react-bootstrap```][react-bootstrap] y [```react-router-bootstrap```][react-router-bootsrap], a partir del _boilerplate_ creado por [```create-react-app```][create-react-app].
 
 Para instalar este ejemplo:
 
@@ -36,6 +36,6 @@ $ npm run start
 #### SkylabCoders Academy - Full Stack Web Development Bootcamp
 
 [create-react-app]: https://github.com/facebookincubator/create-react-app
-[react-router-4]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router
+[react-router-dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
 [react-bootstrap]: https://react-bootstrap.github.io/
 [react-router-bootsrap]: https://github.com/react-bootstrap/react-router-bootstrap
