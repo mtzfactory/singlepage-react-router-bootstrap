@@ -4,7 +4,7 @@
 ![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
 ![css-3](https://mtzfactory.github.io/logos/png/css-3.png)
 
-### SINGLEPAGE app ~ con React, react-router 4 y react-bootstrap.
+### SINGLEPAGE app ~ con React, react-router-dom y react-bootstrap.
 
 Ejemplo de uso de los componentes [```react-router-dom```][react-router-dom], [```react-bootstrap```][react-bootstrap] y [```react-router-bootstrap```][react-router-bootsrap], a partir del _boilerplate_ creado por [```create-react-app```][create-react-app].
 
@@ -25,7 +25,7 @@ $ npm install -g create-react-app
 $ create-react-app my-app
 $ cd my-app/
 
-$ npm install --save react-router
+$ npm install --save react-router-dom
 $ npm install --save react-bootstrap
 $ npm install --save react-router-bootstrap
 
